@@ -39,4 +39,3 @@ json_response = json.loads(response.text)
 
 In addition to main.py and jssapi.py, the other files are examples of how to do certain tasks.
 
-tmpfs                                 2.0G     0  2.0G   0% /dev/shm
